@@ -1,0 +1,8 @@
+npm install -g @nestjs/cli 
+
+// CLI is one of the interface like GUI....
+// CLI provides direct access to computer via the keyboard interactions instead of clicking items and navigating to the menus as in GUI 
+
+nest new project_name 
+
+// instead of manually creating dozens of file and configuring typescript , webpacks , jest from scratch --- these command gives ready-to-code environement in about 60 seconds 
