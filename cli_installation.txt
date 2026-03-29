@@ -6,3 +6,13 @@ npm install -g @nestjs/cli
 nest new project_name 
 
 // instead of manually creating dozens of file and configuring typescript , webpacks , jest from scratch --- these command gives ready-to-code environement in about 60 seconds 
+
+
+cd project_name 
+// to navigate to our project 
+
+npm run dev start 
+// to check if boilder code is working properly without any errors 
+
+by default the port number is 3000 -- imp for mcq 
+
